@@ -1,2 +1,12 @@
-# quick-crypto-tracker-kit-38
-A simple crypto tracker project
+# Crypto Price Tracker
+
+Track cryptocurrency prices from the command line.
+
+Made with ❤️ by Emery
+
+## Setup
+
+```
+pip install requests
+python tracker.py
+```
